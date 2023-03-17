@@ -1,6 +1,6 @@
 # Building the toolchain
 
-If you dowloaded a relesae build of the SDK then all the binaries for the **MC68000** toolchain and the **pfx-x** should be already provided in the `bin` folder. If you need to rebuild those to, for example, update them to new version or fix issues with different OS versions you can use the `pfBuildToolChain` script.
+If you dowloaded a relesae build of the SDK then all the binaries for the **MC68000** toolchain and the **pf-x** should be already provided in the `bin` folder. If you need to rebuild those to, for example, update them to new version or fix issues with different OS versions you can use the `pfBuildToolChain` script.
 
 ### Building on macOS
 
