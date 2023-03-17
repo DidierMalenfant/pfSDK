@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+_build
+/.nova
+/bin/gcc
+/bin/pfSimulator.app
