@@ -108,7 +108,7 @@ class pfBuildToolChain:
         print('Downloading binutils from our fork...')
 
         if not os.path.exists(os.path.join(self.sources_folder, 'binutils')):
-            pfScriptUtils.shellCommand(['git', 'clone', 'https://github.com/ProjectFreedomGaming/binutils.git'], from_dir=self.sources_folder)
+            pfScriptUtils.shellCommand(['git', 'clone', 'https://github.com/DidierMalenfant/binutils.git'], from_dir=self.sources_folder)
             print('✅ Downloaded binutils.')
 
         print('Building binutils...')
@@ -122,7 +122,7 @@ class pfBuildToolChain:
         print('Downloading gcc from our fork...')
 
         if not os.path.exists(os.path.join(self.sources_folder, 'gcc')):
-            pfScriptUtils.shellCommand(['git', 'clone', 'https://github.com/ProjectFreedomGaming/gcc.git'], from_dir=self.sources_folder)
+            pfScriptUtils.shellCommand(['git', 'clone', 'https://github.com/DidierMalenfant/gcc.git'], from_dir=self.sources_folder)
             print('✅ Downloaded gcc.')
 
         print('Building gcc...')
