@@ -2,7 +2,7 @@
 
 ### Installing the SDK
 
-You will need a [supported](Installing%20Python.md) version of **Python** and then make sure your environment is setup correctly.
+You will need a supported version of [**Python 3**](https://didier.malenfant.net/blog/nerdy/2022/08/17/installing-python.html) and then make sure your environment is setup correctly.
 
 ### Installing on macOS
 
