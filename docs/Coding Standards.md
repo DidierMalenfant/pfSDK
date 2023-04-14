@@ -29,7 +29,7 @@ The main points dictating the overall philosophy for the **pfSDK** are:
 This is the standard header used by the **pfSDK**:
 
 ```
-// SPDX-FileCopyrightText: 2023-present pfSDK contributors
+// SPDX-FileCopyrightText: 2023-present Didier Malenfant
 //
 // SPDX-License-Identifier: GPL-3.0-or-later
 ```
